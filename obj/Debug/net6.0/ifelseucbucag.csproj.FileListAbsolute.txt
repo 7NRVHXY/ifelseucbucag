@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ifelseucbucag\bin\Debug\net6.0\ifelseucbucag.exe
+C:\Users\HP\source\repos\ifelseucbucag\bin\Debug\net6.0\ifelseucbucag.deps.json
+C:\Users\HP\source\repos\ifelseucbucag\bin\Debug\net6.0\ifelseucbucag.runtimeconfig.json
+C:\Users\HP\source\repos\ifelseucbucag\bin\Debug\net6.0\ifelseucbucag.dll
+C:\Users\HP\source\repos\ifelseucbucag\bin\Debug\net6.0\ifelseucbucag.pdb
+C:\Users\HP\source\repos\ifelseucbucag\obj\Debug\net6.0\ifelseucbucag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ifelseucbucag\obj\Debug\net6.0\ifelseucbucag.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ifelseucbucag\obj\Debug\net6.0\ifelseucbucag.AssemblyInfo.cs
+C:\Users\HP\source\repos\ifelseucbucag\obj\Debug\net6.0\ifelseucbucag.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ifelseucbucag\obj\Debug\net6.0\ifelseucbucag.dll
+C:\Users\HP\source\repos\ifelseucbucag\obj\Debug\net6.0\refint\ifelseucbucag.dll
+C:\Users\HP\source\repos\ifelseucbucag\obj\Debug\net6.0\ifelseucbucag.pdb
+C:\Users\HP\source\repos\ifelseucbucag\obj\Debug\net6.0\ifelseucbucag.genruntimeconfig.cache
+C:\Users\HP\source\repos\ifelseucbucag\obj\Debug\net6.0\ref\ifelseucbucag.dll
